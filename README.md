@@ -27,7 +27,7 @@
 
 About Me:
 
-- 🐍 I'm a Junior Python backend developer from Russia, Saint-Petersburg
+- 🐍 I'm Python web-developer with 1+ year of a non-commercial experience from Russia, Saint-Petersburg
 
 - ⚡ In my free time, I learn English, read tech and psychology books.
 
