@@ -27,7 +27,7 @@
 
 About Me:
 
-- 🐍 I'm an intern python web-developer with 1+ year of a non-commercial experience from Russia, Saint-Petersburg
+- 🐍 I'm from Saint-Petersburg.
 
 - ⚡ In my free time, I learn English, read tech books and watch serials.
 
